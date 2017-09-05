@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OkgoNetframe.iml" filepath="$PROJECT_DIR$/OkgoNetframe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okgolib/okgolib.iml" filepath="$PROJECT_DIR$/okgolib/okgolib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tv/tv.iml" filepath="$PROJECT_DIR$/tv/tv.iml" />
+    </modules>
+  </component>
+</project>
